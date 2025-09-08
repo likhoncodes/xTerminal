@@ -1,0 +1,12 @@
+# Using a more recent version of FastAPI compatible with Pydantic v2
+fastapi==0.110.0
+uvicorn[standard]==0.22.0
+python-dotenv==1.0.0
+httpx==0.24.0
+pydantic==2.5.1
+aiofiles==23.1.0
+
+# Testing Dependencies
+pytest==7.4.0
+pytest-asyncio==0.21.0
+respx==0.20.2
